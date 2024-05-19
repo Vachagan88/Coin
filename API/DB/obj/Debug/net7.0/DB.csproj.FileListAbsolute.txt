@@ -1,0 +1,17 @@
+D:\Coin\API\DB\obj\Debug\net7.0\DB.csproj.AssemblyReference.cache
+D:\Coin\API\DB\obj\Debug\net7.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coin\API\DB\obj\Debug\net7.0\DB.AssemblyInfoInputs.cache
+D:\Coin\API\DB\obj\Debug\net7.0\DB.AssemblyInfo.cs
+D:\Coin\API\DB\obj\Debug\net7.0\DB.csproj.CoreCompileInputs.cache
+D:\Coin\API\DB\bin\Debug\net7.0\DB.deps.json
+D:\Coin\API\DB\bin\Debug\net7.0\DB.runtimeconfig.json
+D:\Coin\API\DB\bin\Debug\net7.0\DB.dll
+D:\Coin\API\DB\bin\Debug\net7.0\DB.pdb
+D:\Coin\API\DB\bin\Debug\net7.0\Core.dll
+D:\Coin\API\DB\bin\Debug\net7.0\Core.pdb
+D:\Coin\API\DB\obj\Debug\net7.0\DB.csproj.CopyComplete
+D:\Coin\API\DB\obj\Debug\net7.0\DB.dll
+D:\Coin\API\DB\obj\Debug\net7.0\refint\DB.dll
+D:\Coin\API\DB\obj\Debug\net7.0\DB.pdb
+D:\Coin\API\DB\obj\Debug\net7.0\DB.genruntimeconfig.cache
+D:\Coin\API\DB\obj\Debug\net7.0\ref\DB.dll

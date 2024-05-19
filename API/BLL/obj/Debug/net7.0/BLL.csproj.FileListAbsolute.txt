@@ -1,0 +1,11 @@
+D:\Coin\API\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\Coin\API\BLL\bin\Debug\net7.0\BLL.dll
+D:\Coin\API\BLL\bin\Debug\net7.0\BLL.pdb
+D:\Coin\API\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coin\API\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\Coin\API\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\Coin\API\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\Coin\API\BLL\obj\Debug\net7.0\BLL.dll
+D:\Coin\API\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\Coin\API\BLL\obj\Debug\net7.0\BLL.pdb
+D:\Coin\API\BLL\obj\Debug\net7.0\ref\BLL.dll
